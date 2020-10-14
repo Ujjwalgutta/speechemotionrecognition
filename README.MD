@@ -3,5 +3,5 @@ Communication based on emotions is an important capability. Detecting the emotio
 discontinuity between acoustic features and human emotions.
 
 ## Motivation
-- To achieve truly effective HCI interaction, there is a need for computers to be able to interact naturally with humans.\
+- To achieve truly effective HCI interaction, there is a need for computers to be able to interact naturally with humans.
 - ‘Behavioural Biometrics’ is an upcoming field which deals with utilizing behaviour information like emotions as these traits are impossible to steal.
