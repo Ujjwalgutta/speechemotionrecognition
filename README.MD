@@ -26,9 +26,9 @@ Multi Layer Perceptron out performed other models due to limited availability of
 ## Analysis
 Confusion Matrices
 
-<img src="Images/MLP-RAVDESS.png"> width="250" height="250">   |   <img src="Images/CNN-RAVDESS.png"> width="250" height="250">          
+<img src="Images/MLP-RAVDESS.png" width="250" height="250">   |   <img src="Images/CNN-RAVDESS.png" width="250" height="250">          
                     Multi Layer Perceptron                                          Convolutional Neural Network
 :-------------------------:|:-------------------------:
- <img src="Images/RFC-RAVDESS.png"> width="250" height="250">  |   <img src="Images/SVM-RAVDESS.png"> width="250" height="250"> 
+ <img src="Images/RFC-RAVDESS.png" width="250" height="250">  |   <img src="Images/SVM-RAVDESS.png" width="250" height="250"> 
                     Random Forest Classifier                                        Support Vector Machine
 
