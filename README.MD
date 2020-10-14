@@ -25,14 +25,14 @@ Accuracy, f-score and Recall values of different models were calculated.
 Multi Layer Perceptron out performed other models due to limited availability of training data.
 
 ## Analysis
-Confusion Matrices
+#### Confusion Matrices
 Multilayer Perceptron                                         |   Convolutional Neural Network
 :-------------------------:|:-------------------------:
 <img src="Images/MLP-RAVDESS.png" width="400" height="400">   |   <img src="Images/CNN-RAVDESS.png" width="400" height="400">          
 Random Forest Classifier                                      |   Support Vector Machine
 <img src="Images/RFC-RAVDESS.png" width="400" height="400">  |   <img src="Images/SVM-RAVDESS.png" width="400" height="400"> 
 
-Feature-Based Accuracy Comparison
+#### Feature-Based Accuracy Comparison
 ![Alt Text](Images/FBAC.PNG)
 
  
